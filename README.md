@@ -2,7 +2,7 @@
 
 Projet de processus stochastiques - Modélisation et simulation d'une épidémie sur une grille par une chaîne de Markov à temps continu.
 
-Ce dépôt traite le **Sujet 3 : "Propagation d'une maladie par itinérance"** du mini-projet Chaînes de Markov (Master 2 Statistique).
+Ce dépôt traite le **Sujet 3 : "Propagation d'une maladie par itinérance"**.
 
 ## Le projet
 
